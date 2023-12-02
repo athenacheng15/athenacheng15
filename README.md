@@ -3,17 +3,17 @@
 <img align="right" height="164" src="https://github.com/athenacheng15/athenacheng15/assets/64196504/e51b365c-cdc8-4ccc-a5a4-ae2baf516d33"  />
 <div align="left">
    <br>
-   <li> 🖥 A frontend developer from Taiwan</li>
-   <li> 🐞 Creating bugs since 2020</li>
-   <li> 💼 I’m currently working on e-commerce company</li>
-   <li> 💡 Start from frontend , aim to be full-stack</li>
-   <li> 🏁 F1 lover</li>
+   <li> 🖥&nbsp A frontend developer from Taiwan</li>
+   <li> 🐞&nbsp Creating bugs since 2020</li>
+   <li> 💼&nbsp I’m currently working on e-commerce company</li>
+   <li> 💡&nbsp Start from frontend , aim to be full-stack</li>
+   <li> 🏁&nbsp F1 lover</li>
 </div>
 <br clear="both">
 
 <hr> 
 
-<h3 align="left">💻  Things I Code With :</h3>
+<h3 align="left">💻&nbsp  Things I Code With :</h3>
 <p align="left">Frontend Basics :</p>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="html5 logo"  />
@@ -63,14 +63,14 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥&nbsp My Stats :</h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=athenacheng15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athenacheng15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
 <br clear="both">
 
-<h3 align="left">🔍 Connect With Me :</h3>
+<h3 align="left">🔍&nbsp Connect With Me :</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/yuchuncheng-athena/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Yu-Chun%20Cheng&logo=linkedin&label=&color=333333&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
