@@ -1,37 +1,79 @@
-<h1 align="center">Ni-Hao 👋🏻, &nbsp It's YuChun here.</h1>
-<h3 align="center">A frontend developer from Taiwan</h3>
+<h1 align="center">Hi 👋🏻,   It's YuChun here.</h1>
 
-- 🔭 I’m currently working on **91APP**
-
-- 📫 How to reach me **athenachengyc15@gmail.com**
-
-- ⚡ Fun fact **F1 lover**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<br>
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=athenacheng15&show_icons=true&locale=en" alt="athenacheng15" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athenacheng15&" alt="athenacheng15" />
+<img align="right" height="164" src="https://github.com/athenacheng15/athenacheng15/assets/64196504/e51b365c-cdc8-4ccc-a5a4-ae2baf516d33"  />
+<div align="left">
+   <li> 🖥 A frontend developer from Taiwan</li>
+   <li> 🐞 Creating bugs since 2020</li>
+   <li> 💼 I’m currently working on e-commerce company</li>
+   <li> 💡 Start from frontend , aim to be full-stack</li>
+   <li> 🏁 F1 lover</li>
 </div>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yuchuncheng-athena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuchuncheng-athena/" height="30" width="40" /></a>
-</p>
+<br clear="both">
+<hr> 
 
-<!--
-**athenacheng15/athenacheng15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">💻  Things I Code With :</h3>
+<p align="left">Frontend Basics :</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+</div>
 
-Here are some ideas to get you started:
+<p align="left">Frontend Frameworks and Tools :</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=black&style=for-the-badge" height="30" alt="storybook logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Backend & Database :</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
+</div>
+
+<p align="left">Version Control & Packages:</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=athenacheng15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athenacheng15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="140" alt="languages graph"  />
+</div>
+<br clear="both">
+
+<h3 align="left">✉️ Connect With Me :</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/yuchuncheng-athena/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Yu-Chun%20Cheng&logo=linkedin&label=&color=333333&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=athenachengyc15&logo=gmail&label=&color=333333&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=yuchun_cheng&logo=discord&label=&color=333333&logoColor=white&labelColor=5865F2&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/athenacheng15/count.svg?"  />
+</div>
+
+
