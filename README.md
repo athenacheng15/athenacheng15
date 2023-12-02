@@ -82,7 +82,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/athenacheng15/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=athenacheng15&style=flat-square&color=grey"  />
 </div>
 
 
