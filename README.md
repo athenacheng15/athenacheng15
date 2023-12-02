@@ -2,6 +2,7 @@
 
 <img align="right" height="164" src="https://github.com/athenacheng15/athenacheng15/assets/64196504/e51b365c-cdc8-4ccc-a5a4-ae2baf516d33"  />
 <div align="left">
+   <br>
    <li> 🖥 A frontend developer from Taiwan</li>
    <li> 🐞 Creating bugs since 2020</li>
    <li> 💼 I’m currently working on e-commerce company</li>
@@ -9,6 +10,7 @@
    <li> 🏁 F1 lover</li>
 </div>
 <br clear="both">
+
 <hr> 
 
 <h3 align="left">💻  Things I Code With :</h3>
